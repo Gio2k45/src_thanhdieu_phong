@@ -1,0 +1,11 @@
+<files ".htaccess">
+    order allow,deny
+    deny from all
+    </files>
+    
+    RewriteEngine On
+    ErrorDocument 404 /404.php
+    
+    #LOGIN & SIGNUP
+    RewriteRule ^404$ 404.php [L]
+    
