@@ -55,7 +55,7 @@
                </li>
             </ul>
          </div>
-         <p>Copyright &copy; 2021. ThanhDieu.Com All rights reserved.</p>
+         <p>Copyright &copy; 2024. Wind+ All rights reserved.</p>
       </div>
    </body>
 </html>
